@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @treejumperfinny
 - 👀 I’m interested in ... cosplay, crafting, content creation, food, travel, nerd stuff.
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently brushing up on... Javascript. Learning Kotlin!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
